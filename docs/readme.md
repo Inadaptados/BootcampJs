@@ -10,11 +10,11 @@ Consulta en: [https://www.w3schools.com/js/js_htmldom.asp](https://www.w3schools
 
 ## 📄 Recursos de la clase
 
-- 👉 [Ejercicios en consola](docs/ejercicios_en_consola.pdf)
+- 👉 [Ejercicios en consola](ejercicios_en_consola.pdf)
 
-[![Estructura de directorio](docs/estructura_directorio.JPG)](docs/estructura_directorio.JPG)
+[![Estructura de directorio](estructura_directorio.JPG)](docs/estructura_directorio.JPG)
 
-- 👉 [Practica Javascript condiciones y ciclos](docs/guia_practica_cond_ciclos_DOM.pdf)
+- 👉 [Practica Javascript condiciones y ciclos](guia_practica_cond_ciclos_DOM.pdf)
 
 ---
 
