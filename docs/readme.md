@@ -33,7 +33,15 @@ https://splidejs.com/
 ```
 4 En el html dentro del body, se le coloca un id para identificar al section
 ```
-<section id="galeria" class="splide" aria-label="Splide Basic HTML Example"> <div class="splide__track"> <ul class="splide__list"> <li class="splide__slide">Slide 01</li> <li class="splide__slide">Slide 02</li> <li class="splide__slide">Slide 03</li> </ul> </div> </section>
+ <section id="galeria" class="splide" aria-label="Splide Basic HTML Example">
+  <div class="splide__track">
+        <ul class="splide__list">
+            <li class="splide__slide">Slide 01</li>
+            <li class="splide__slide">Slide 02</li>
+            <li class="splide__slide">Slide 03</li>
+        </ul>
+  </div>
+</section>
 ```
 
 5 Dentro del archivo slider.js
@@ -58,7 +66,18 @@ margin: 5px;
 
 7 En el html, código ya utilizando imágenes
 ```
-<li class="splide__slide card"><img src="images/aquaman.png" alt=""></li> <li class="splide__slide card"><img src="images/batman.png" alt=""></li> <li class="splide__slide card"><img src="images/hulk.png" alt=""></li> <li class="splide__slide card"><img src="images/wolverine.png" alt=""></li> <li class="splide__slide card"><img src="images/linterna-verde.png" alt=""></li> <li class="splide__slide card"><img src="images/daredevil.png" alt=""></li>
+                <li class="splide__slide card"><img src="images/aquaman.png" alt=""> </li>
+                <li class="splide__slide card"><img src="images/batman.png" alt=""> </li>
+                <li class="splide__slide card"><img src="images/hulk.png" alt=""> </li>
+                <li class="splide__slide card"><img src="images/wolverine.png" alt=""> </li>
+                <li class="splide__slide card"><img src="images/linterna-verde.png" alt=""> </li>
+                <li class="splide__slide card"><img src="images/daredevil.png" alt=""> </li>
+                <li class="splide__slide card"><img src="images/aquaman.png" alt=""> </li>
+                <li class="splide__slide card"><img src="images/batman.png" alt=""> </li>
+                <li class="splide__slide card"><img src="images/hulk.png" alt=""> </li>
+                <li class="splide__slide card"><img src="images/wolverine.png" alt=""> </li>
+                <li class="splide__slide card"><img src="images/linterna-verde.png" alt=""> </li>
+                <li class="splide__slide card"><img src="images/daredevil.png" alt=""> </li>
 ```
 
 8 Dentro del archivo de slider.css — animación en imágenes
